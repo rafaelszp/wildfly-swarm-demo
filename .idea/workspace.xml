@@ -2,77 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d389bfdb-86d5-4c49-a2a9-5725f884fb4b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_bean_validation_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_bean_validation_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_bean_validation_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_bootstrap_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_cdi_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_cdi_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_cdi_ext_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_cdi_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_config_api_0_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_config_api_modules_0_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_config_api_runtime_0_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_connector_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_connector_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_connector_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_container_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_container_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_container_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_datasources_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_datasources_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_datasources_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_ee_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_ee_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_ee_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_ejb_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_ejb_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_ejb_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_hibernate_validator_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_io_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_io_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_io_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jaxrs_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jaxrs_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jaxrs_cdi_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jaxrs_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jca_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jca_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jca_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jgroups_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jmx_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jpa_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jpa_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_jpa_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_logging_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_logging_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_logging_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_naming_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_naming_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_naming_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_request_controller_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_request_controller_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_request_controller_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_security_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_security_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_security_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_spi_api_1_0_0_Beta17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_transactions_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_transactions_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_transactions_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_undertow_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_undertow_api_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wildfly_swarm_undertow_modules_1_0_0_Beta6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/wildfly_swarm_demo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/wildfly_swarm_demo_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/rest/HelloWorldEndpoint.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/rest/HelloWorldEndpoint.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wildfly-swarm-demo.iml" afterPath="$PROJECT_DIR$/wildfly-swarm-demo.iml" />
     </list>
     <ignored path="wildfly-swarm-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1003,8 +933,16 @@
       <option name="presentableId" value="Default" />
       <updated>1464009953710</updated>
       <workItem from="1467056009795" duration="64932000" />
-      <workItem from="1467641790977" duration="4611000" />
+      <workItem from="1467641790977" duration="4656000" />
     </task>
+    <task id="LOCAL-00001" summary="swagger-ui, not working">
+      <created>1467651978797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467651978797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1040,7 +978,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69543000" />
+    <option name="totallyTimeSpent" value="69588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1097,6 +1035,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="swagger-ui, not working" />
+    <option name="LAST_COMMIT_MESSAGE" value="swagger-ui, not working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
