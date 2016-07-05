@@ -2,3 +2,7 @@ target/
 .idea
 .idea/
 overlays/
+/.idea/
+/overlays/
+/wildfly-swarm-demo.iml
+src/main/resources/

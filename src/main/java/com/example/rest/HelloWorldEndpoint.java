@@ -11,14 +11,14 @@ import javax.ws.rs.Produces;
 
 @Path("/hello")
 @Produces(MediaType.APPLICATION_JSON)
-@Api(value="hello")
+@Api(value="hello",description = "That should say Hello! Isn't that polite? :D")
 public class HelloWorldEndpoint {
 
   @GET
   @Produces("text/plain")
   public Response doGet() {
-    nada();
-    return Response.ok("Hello from WildFly Swarm! :D agora sim! Como hot swap").build();
+    nothing();
+    return Response.ok("Hello from WildFly Swarm! :D agora sim! Como hot swap!").build();
   }
 
   @GET
@@ -27,7 +27,7 @@ public class HelloWorldEndpoint {
     return Response.ok("Hello with id "+id).build();
   }
 
-  public void nada(){
-    System.out.println("nada");
+  public void nothing(){
+    System.out.println("nothing");
   }
 }
