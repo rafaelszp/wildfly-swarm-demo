@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>sp.rafael</groupId>
@@ -11,6 +11,7 @@
 
   <properties>
     <version.wildfly.swarm>1.0.0.Final</version.wildfly.swarm>
+    <version.swagger.fraction>1.0.1.Final-SNAPSHOT</version.swagger.fraction>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <failOnMissingWebXml>false</failOnMissingWebXml>
@@ -57,13 +58,13 @@
   </build>
 
   <dependencies>
-    <!-- Java EE 7 dependency -->
-    <dependency>
-      <groupId>javax</groupId>
-      <artifactId>javaee-api</artifactId>
-      <version>7.0</version>
-      <scope>provided</scope>
-    </dependency>
+    <!-- &lt;!&ndash; Java EE 7 dependency &ndash;&gt;
+     <dependency>
+       <groupId>javax</groupId>
+       <artifactId>javaee-api</artifactId>
+       <version>7.0</version>
+       <scope>provided</scope>
+     </dependency>-->
     <!-- Wildfly Swarm Fractions -->
     <dependency>
       <groupId>org.wildfly.swarm</groupId>
@@ -97,23 +98,27 @@
     <dependency>
       <groupId>org.wildfly.swarm</groupId>
       <artifactId>swagger</artifactId>
+      <version>${version.swagger.fraction}</version>
     </dependency>
 
-      <dependency>
-          <groupId>org.wildfly.swarm</groupId>
-          <artifactId>swagger-webapp</artifactId>
-      </dependency>
+    <dependency>
+      <groupId>org.wildfly.swarm</groupId>
+      <artifactId>swagger-webapp</artifactId>
+      <version>${version.swagger.fraction}</version>
+    </dependency>
 
     <!--TEST-->
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
       <version>6.9.10</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.mockito</groupId>
