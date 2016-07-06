@@ -10,12 +10,11 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Produces;
 
 @Path("/hello")
-@Produces(MediaType.APPLICATION_JSON)
+@Produces(MediaType.TEXT_PLAIN)
 @Api(value="hello",description = "That should say Hello! Isn't that polite? :D")
 public class HelloWorldEndpoint {
 
   @GET
-  @Produces("text/plain")
   public Response doGet() {
     nothing();
     return Response.ok("Hello from WildFly Swarm! :D agora sim! Como hot swap!").build();
