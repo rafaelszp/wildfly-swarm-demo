@@ -1,8 +1,7 @@
-target/
-.idea
-.idea/
+target
+*.idea
 overlays/
-/.idea/
-/overlays/
-/wildfly-swarm-demo.iml
-src/main/resources/
+*.iml
+.idea/workspace.xml
+.idea/encodings.xml
+.idea/artifacts/wildfly_swarm_demo_war_exploded.xml
