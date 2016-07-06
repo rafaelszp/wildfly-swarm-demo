@@ -20,3 +20,4 @@ overlays/
 .idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml
 .idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml
 .idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml
+wildfly-swarm-demo.iml
